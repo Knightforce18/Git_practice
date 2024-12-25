@@ -1,0 +1,5 @@
+*.txt
+shinchan.py
+!test.txt
+
+# test.txt will be tracked as ! is used before file name
