@@ -6,6 +6,6 @@ printf("Hello github!!");
 
 return 0;
 
-printf("to track the new branch");
+printf("to track the new branch and now time to check conflict");
 
 }
